@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Simple GET Test" tests="1" time="0.166">
+  <testsuite name="GET test request" id="031db996-8d23-473f-9b43-590d9171eb75" timestamp="2025-10-29T18:42:45.450Z" tests="2" failures="0" errors="0" time="0.166">
+    <testcase name="@TEST_KEY=API-101" time="0.166" classname="GetTestRequest"/>
+    <testcase name="@TEST_KEY=API-102" time="0.166" classname="GetTestRequest"/>
+  </testsuite>
+</testsuites>
