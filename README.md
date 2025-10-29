@@ -14,11 +14,7 @@ Les résultats sont exportés au format **JUnit XML**, ce qui permet leur intég
 3. [Prérequis](#prérequis)  
 4. [Construction de l’image Docker](#construction-de-limage-docker)  
 5. [Exécution manuelle](#exécution-manuelle)  
-6. [Format de sortie JUnit](#format-de-sortie-junit)  
-7. [Intégration avec Xray Cloud](#intégration-avec-xray-cloud)  
-8. [Intégration GitLab CI/CD](#intégration-gitlab-cicd)  
-9. [Bonnes pratiques](#bonnes-pratiques)  
-10. [Licence](#licence)
+
 
 ---
 
